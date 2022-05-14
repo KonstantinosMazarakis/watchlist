@@ -11,8 +11,8 @@ Python, Pandas
 
 ## Images 
 
-<img src="https://www.kmazarakis.com/images/projects/watchlist/1.PNG" width="300" height="600">
+<img src="https://www.kmazarakis.com/images/projects/watchlist/1.PNG" width="400" height="600">
 
-<img src="https://www.kmazarakis.com/images/projects/watchlist/2.PNG" width="600" height="300">
+<img src="https://www.kmazarakis.com/images/projects/watchlist/2.PNG" width="400" height="600">
 
 
